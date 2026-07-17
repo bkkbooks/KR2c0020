@@ -2085,6 +2085,7 @@ markers:
       ', id: KR2c0020_WYG_014-bkkkrnewl495}
   - {type: line-break, offset: 8984, content: '', id: KR2c0020_WYG_014-28b01}
   - {type: punctuation, offset: 9003, content: (, id: KR2c0020_WYG_014-bkkpn1}
+  - {type: voice, offset: 9003, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 9005, content: /, id: KR2c0020_WYG_014-bkkpn2}
   - {type: punctuation, offset: 9007, content: ), id: KR2c0020_WYG_014-bkkpn3}
   - {type: 'kr:newline', offset: 9007, content: '
@@ -2574,6 +2575,7 @@ markers:
       ', id: KR2c0020_WYG_014-bkkkrnewl614}
   - {type: line-break, offset: 11174, content: '', id: KR2c0020_WYG_014-35a03}
   - {type: punctuation, offset: 11175, content: (, id: KR2c0020_WYG_014-bkkpn7}
+  - {type: voice, offset: 11175, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 11178, content: /, id: KR2c0020_WYG_014-bkkpn8}
   - {type: punctuation, offset: 11180, content: ), id: KR2c0020_WYG_014-bkkpn9}
   - {type: indent, offset: 11180, content: 　, id: KR2c0020_WYG_014-bkkind105}
@@ -3492,4 +3494,4 @@ markers:
 
       ', id: KR2c0020_WYG_014-bkkkrnewl827}
   back: []
-hash: sha256:444ff777707cf60b71698b003374ed52e89f08a73e199d7abc2aeadd0cf8fdbb
+hash: sha256:e526dcb28b282d227d55a6d1ef47c01af6fc102e7575a9b5447bf13254f5cd6b
